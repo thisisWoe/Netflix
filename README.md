@@ -7,7 +7,7 @@ For the Epicode bootcamp, I have created a faithful replica of the renowned stre
 ## Key Features:
 
 - Completely responsive;
-- The task was to align all the sections using BOOTSTRAP;
+- The task was to align all the sections using ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white);
 - Carousel animation with ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E);
 
 ## Tech Stack
